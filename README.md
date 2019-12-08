@@ -1,3 +1,3 @@
 # git_learn
 
-Ana are mere
+Ana are pere
